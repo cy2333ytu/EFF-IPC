@@ -1,0 +1,6 @@
+#include "libipc/platform/detail.h"
+#include "libipc/platform/linux/a0/err.c"
+#include "libipc/platform/linux/a0/mtx.c"
+#include "libipc/platform/linux/a0/strconv.c"
+#include "libipc/platform/linux/a0/tid.c"
+#include "libipc/platform/linux/a0/time.c"
