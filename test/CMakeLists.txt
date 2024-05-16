@@ -1,4 +1,4 @@
-set(LIBIPC_PROJECT_DIR "/home/ccy/Desktop/cpp-ipc")
+set(LIBIPC_PROJECT_DIR "${PROJECT_SOURCE_DIR}")
 project(test-ipc)
 cmake_minimum_required(VERSION 3.22)
 
